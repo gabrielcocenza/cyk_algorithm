@@ -1,10 +1,11 @@
-9
+10
 &
-a
-a b a a b b
-a b
-b b a b
-b b a a b a a b
-b a a b a b
-b b b b b b
-a b a a b a
+a a a b b c c c
+a c
+a b b
+b b b
+c b a
+a a c c a c
+b b b a a c c
+a b c
+a a c c c
